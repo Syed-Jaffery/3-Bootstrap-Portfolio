@@ -2,4 +2,12 @@ body {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
+  
+}
+
+.header {
+  background-image: url(../css/Images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;;
 }
