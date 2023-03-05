@@ -2,6 +2,8 @@ body {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
+
+  font-size: 10px;
   
 }
 
@@ -10,4 +12,31 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;;
+}
+
+#skills {
+  height: 50vh;
+  background-color: aqua;
+  border: 2px solid red;
+}
+
+#about {
+height: 50vh;
+background-color: coral;
+border: 2px solid black;
+}
+
+#footer {
+  background-color: black;
+  color: white;
+  height: 10vh;
+}
+.button {
+  font-size: 10px;
+}
+.card-title {
+  font-size: 15px;
+}
+.card-text {
+  font-size: 10px;
 }
