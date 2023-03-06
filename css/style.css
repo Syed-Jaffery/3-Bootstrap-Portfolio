@@ -39,18 +39,27 @@ color:white
   height: 6rem;
   background-color: aqua;
   padding-top: 25px;
+  color: white;
 }
 
-#skills {
-  height: 50vh;
-  background-color: aqua;
-  border: 2px solid red;
+#technologies {
+  height: 6rem;
+  background-color:coral;
+  border: 1px solid black;
+  color: white;
+  padding-top: 25px;
+ 
+  
 }
 
 #about {
-height: 50vh;
-background-color: coral;
-border: 2px solid black;
+  height: 6rem;
+  background-color:aqua;
+  border: 1px solid black;
+  color: white;
+  padding-top: 25px;
+ 
+  
 }
 #strapline{
   font-size:medium;
