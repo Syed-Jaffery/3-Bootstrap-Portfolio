@@ -37,27 +37,31 @@ color:white
 
 #portfolio {
   height: 6rem;
-  background-color: aqua;
+  background-color: coral;
   padding-top: 25px;
   color: white;
 }
 
 #technologies {
-  height: 6rem;
+  height: 4rem;
   background-color:coral;
-  border: 1px solid black;
+  
   color: white;
-  padding-top: 25px;
+  padding-top: 10px;
  
   
 }
 
+/* .logos {
+  height: 50px;
+} */
+
 #about {
-  height: 6rem;
-  background-color:aqua;
-  border: 1px solid black;
+  height: 4rem;
+  background-color:coral;
+ 
   color: white;
-  padding-top: 25px;
+  padding-top: 10px;
  
   
 }
