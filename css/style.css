@@ -8,10 +8,37 @@ body {
 }
 
 .header {
-  background-image: url(../Images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg) ;
+  background-image: url(../Images/cover.png) ;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;;
+  height: 100vh;
+ 
+}
+.navbar-brand {
+color:white
+
+}
+.nav-link {
+  color: white;
+  text-decoration: underline;
+}
+
+
+.nav-link:hover {
+  font-weight: bold;
+  color: black;
+}
+
+#overlay {
+  color: white;
+  background-color: coral;
+  margin-top: 190px;
+}
+
+#portfolio {
+  height: 6rem;
+  background-color: aqua;
+  padding-top: 25px;
 }
 
 #skills {
@@ -25,6 +52,12 @@ height: 50vh;
 background-color: coral;
 border: 2px solid black;
 }
+#strapline{
+  font-size:medium;
+  font-style: italic
+
+}
+
 
 #footer {
   background-color: black;
@@ -33,10 +66,17 @@ border: 2px solid black;
 }
 .button {
   font-size: 10px;
+  background-color: coral;
+  border: none;
+  border-radius: 3px;
 }
 .card-title {
   font-size: 15px;
 }
 .card-text {
   font-size: 10px;
+}
+
+.card-body {
+ 
 }
