@@ -4,7 +4,7 @@
 
 Visit website (https://syed-jaffery.github.io/3-Bootstrap-Portfolio/)
 
-![website image](/Images/screencapture.pdf)
+![website image](https://github.com/Syed-Jaffery/3-Bootstrap-Portfolio/blob/main/Images/screencapture.pdf)
 
 ## Description
 
