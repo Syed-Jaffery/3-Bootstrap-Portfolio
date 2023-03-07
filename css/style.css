@@ -2,20 +2,31 @@ body {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-
   font-size: 10px;
   
 }
+p {
+  font-size: 12px;
+}
 
+/* --------------------------------------Header and Navbar Section----------------------------------- */
 .header {
-  background-image: url(../Images/cover.png) ;
+  background-image: url(../Images/cover-resized.jpg) ;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
  
 }
+
+#strapline{
+  font-size:medium;
+  font-style: italic
+
+}
+
 .navbar-brand {
 color:white
+
 
 }
 .nav-link {
@@ -35,6 +46,8 @@ color:white
   margin-top: 190px;
 }
 
+/* --------------------------------------Portfolio Section----------------------------------- */
+
 #portfolio {
   height: 6rem;
   background-color: coral;
@@ -42,46 +55,8 @@ color:white
   color: white;
 }
 
-#technologies {
-  height: 4rem;
-  background-color:coral;
-  
-  color: white;
-  padding-top: 10px;
- 
-  
-}
-
-/* .logos {
-  height: 50px;
-} */
-
-#about {
-  height: 4rem;
-  background-color:coral;
- 
-  color: white;
-  padding-top: 10px;
- 
-  
-}
-#strapline{
-  font-size:medium;
-  font-style: italic
-
-}
-
-
-#footer {
-  background-color: black;
-  color: white;
-  height: 10vh;
-}
-.button {
-  font-size: 10px;
-  background-color: coral;
-  border: none;
-  border-radius: 3px;
+.card {
+  height: 275px;
 }
 .card-title {
   font-size: 15px;
@@ -90,6 +65,61 @@ color:white
   font-size: 10px;
 }
 
-.card-body {
- 
+/* --------------------------------------Skills Section----------------------------------- */
+
+
+#skills {
+  height: 4rem;
+  background-color:coral;
+  color: white;
+  padding-top: 10px;
 }
+
+.skills-section {
+  height: 50vh;
+  padding-left: 30px;
+}
+
+
+/* --------------------------------------About Section----------------------------------- */
+
+#about {
+  height: 4rem;
+  background-color:coral;
+  color: white;
+  padding-top: 10px;
+ 
+  
+}
+
+.about-section{
+  height: 50vh;
+  padding-left: 30px;
+}
+
+
+/* --------------------------------------Footer Section----------------------------------- */
+
+#footer {
+  background-color:#555;
+  height: 10vh;
+}
+
+
+
+/* --------------------------------------Buttons----------------------------------- */
+
+
+.button {
+  font-size: 10px;
+  background-color: coral;
+  border: none;
+  border-radius: 3px;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+
+
