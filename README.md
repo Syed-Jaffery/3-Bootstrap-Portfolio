@@ -2,9 +2,9 @@
 
 
 
-Visit website (/)
+Visit website (https://syed-jaffery.github.io/3-Bootstrap-Portfolio/)
 
-![website image]()
+![website image](/Images/screencapture.pdf)
 
 ## Description
 
@@ -12,13 +12,13 @@ Visit website (/)
 
 
 
-### Health Check App Oveview
+###  Oveview
 
 
 
 ### Future Enhancements
 
-
+N/A
 
 # Installation
 
