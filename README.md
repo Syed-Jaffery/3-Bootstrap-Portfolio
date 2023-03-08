@@ -3,7 +3,7 @@
 
 Visit website (https://syed-jaffery.github.io/3-Bootstrap-Portfolio/)
 
-![website image](Images/screencapture.pdf)
+![website image](../Images/screencapture.pdf)
 IMPORTANT - Please click this 'website image' link to view in PDF format as GitHub pages is not rendering the website correctly
 
 ## Description
